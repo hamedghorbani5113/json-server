@@ -1,1 +1,51 @@
 
+{
+  "TweetListItem": [
+    {
+      "TweeterName": "حامد قربانی",
+      "TweeterID": "@hamed_ghorbani",
+      "TweeterText": "صبحانه را دوست دارم و برای هدم تلاش میونم به خاط #آینده پسرم عشقم",
+      "TweeterIMG": "./img/user.png",
+      "TweeterLikes": 12
+    },
+    {
+      "TweeterName": "رهام قربانی",
+      "TweeterID": "@hamed_ghorbani",
+      "TweeterText": "تلاش میونم به خاط آینده پسرم عشقبسیار زیبا #تمیز سحر خیز 5 صبحی ",
+      "TweeterIMG": "./img/xiaomi.png",
+      "TweeterLikes": 2
+    },
+    {
+      "TweeterName": "مریم میرآقاپور",
+      "TweeterID": "@hamed_ghorbani",
+      "TweeterText": "صبحانه را دوست دارم و برای هدم #تلاش میونم به خاط آینده پسرم عشقم",
+      "TweeterIMG": "./img/user.png",
+      "TweeterLikes": 132
+    },
+    {
+      "TweeterName": "رهام قربانی",
+      "TweeterID": "@hamed_ghorbani",
+      "TweeterText": "تلاش میونم به خاط آینده #پسرم عشقبسیار #زیبا تمیز سحر خیز 5 صبحی ",
+      "TweeterIMG": "./img/xiaomi.png",
+      "TweeterLikes": 19
+    }
+  ],
+  "btsTW": [
+    {
+      "src": "/img/xiaomi.png",
+      "title": "xiami",
+      "text": "@xiaomi"
+    },
+    {
+      "src": "/img/samsung.png",
+      "title": "samsung",
+      "text": "@samsung"
+    }
+  ],
+  "Hashtagarr": [
+    "ریکت_داغ",
+    "سامسونگ",
+    "کار_سخت",
+    "تلاش_هدف"
+  ]
+}
